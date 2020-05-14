@@ -8,10 +8,10 @@
 
 |课程|时间|课程回顾|
 |---|---|---|
-|第一讲|2020.4.20|[课程回顾](https://ke.qq.com/webcourse/index.html#cid=2004782&term_id=102105885&taid=22622792&lite=1&vid=5285890801612086643)|
-|第二讲|2020.4.24||
-|第三讲|2020.4.29||
-|第四讲|2020.5.08||
+|第一讲|2020.4.20|[课程回顾](https://www.bilibili.com/video/BV1Qf4y1S7gM?from=search&seid=9335205922643335319)|
+|第二讲|2020.4.24|[课程回顾](https://www.bilibili.com/video/BV1Qf4y1S7gM?from=search&seid=9335205922643335319)|
+|第三讲|2020.4.29|[课程回顾](https://www.bilibili.com/video/av925437364?spm_id_from=333.788.b_765f64657363.3)|
+|第四讲|2020.5.08|[课程回顾](https://www.bilibili.com/video/av540535437?spm_id_from=333.788.b_765f64657363.1)|
 
 ## 课程内容
 
